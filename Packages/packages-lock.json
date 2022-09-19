@@ -226,7 +226,7 @@
       "url": "https://packages.unity.com"
     },
     "ie.setu.cubefilter": {
-      "version": "file:ie.setu.cubefilter",
+      "version": "file:ie.setu.xor21",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
