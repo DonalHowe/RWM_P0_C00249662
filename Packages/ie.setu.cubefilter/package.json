@@ -1,0 +1,8 @@
+{
+  "name": "ie.setu.cubefilter",
+  "version": "0.1.0",
+  "displayName": "Xor21",
+  "description": "A filter that adds or minuses from 21",
+  "unity": "2021.3"
+
+}
